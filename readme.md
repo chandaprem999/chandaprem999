@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Premkumar Chanda! <img src="https://raw.githubusercontent.com/chandaprem999/chandaprem999/main/assets/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Premkumar Chanda! <img src="https://raw.githubusercontent.com/chandaprem999/chandaprem999/master/assets/wave.gif" width="30px"></h1>
 <h3 align="center"> A Passionate Web Developer Based In India 👨‍💻 </h3>
 
 <p align="center">
@@ -17,9 +17,7 @@
 <h3 align="center"> GitHub Stats 📈:</h3>
 <p align="center">
 
-
    <img alt="Premkumar chanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandaprem999&theme=react&hide_border=true&bg_color=0D1117" />
-
 
 </p>
 
