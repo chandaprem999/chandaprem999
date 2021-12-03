@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Premkumar Chanda! <img src="https://raw.githubusercontent.com/chandaprem999/chandaprem999/main/assets/wave.gif" width="30px"></h1>
 <h3 align="center"> A Passionate Web Developer Based In India 👨‍💻 </h3>
 
-
 <p align="center">
 -   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love to code, build things & solve problems. <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
 -   ⚡ For fun, I like reading books, playing chess & cricket. <br/>
--   🗺️ Want to know more? Check out my portfolio <a href="https://srikantabanerjee.netlify.app/"> here 🔗</a>. <br/>
+-   🗺️ Want to know more? Check out my portfolio <a href="https://portfolio-9w9.pages.dev/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
@@ -15,23 +14,16 @@
 
 ---
 
-
-
 <h3 align="center"> GitHub Stats 📈:</h3>
 <p align="center">
-  
 
 
    <img alt="Premkumar chanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandaprem999&theme=react&hide_border=true&bg_color=0D1117" />
-    
 
 
 </p>
 
-
 ---
- 
-
 
   <h3 align="center">Want To Get In Touch? Reach Out To Me On 👇:</h3>
   
